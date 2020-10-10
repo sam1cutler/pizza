@@ -1,4 +1,5 @@
 # pizza page
+Quick link to [the GitHub.io version of this page](https://sam1cutler.github.io/pizza/).
 
 ## About me
 
